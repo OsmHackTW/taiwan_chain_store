@@ -1,5 +1,5 @@
 <presets>
-<group name="Convenience Store">
+<group name="Convenience Store" icon="presets/convenience.png">
     <item name="7-eleven" types="node, closedway">
         <key key="shop" value="convenience" />
         <key key="brand" value="7-Eleven" />
@@ -57,7 +57,7 @@
         <combo key="wheelchair" text="Wheelchair" values="yes, limited, no" editable="false" />
 	</item>
 </group>
-<group name="Fuel">
+<group name="Fuel" icon="presets/fuel.png">
 	<item name="台灣中油" typse="node, closedway">
 		<key key="amenity" value="fuel" />
 		<key key="brand" value="台灣中油" />
@@ -140,7 +140,7 @@
         <text key="addr:housenumber" text="House number" />
 	</item>
 </group>
-<item name="Bank" types="node, closedway">
+<item name="Bank" types="node, closedway" icon="styles/standard/money/bank.png">
 	<key key="amenity" value="bank" />
 	<label text="新增/編輯一家銀行" />
 	<text key="name" text="Name" />

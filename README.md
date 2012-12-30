@@ -5,7 +5,7 @@ WHAT IS IT?
 -----------
 
 This is a "Presets" of JOMS for adding/editing some chain store in Taiwan.
-eg: convience store, gas station, bank
+eg: convenience store, gas station, bank
 
 INSTALL
 -------
