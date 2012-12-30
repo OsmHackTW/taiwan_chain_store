@@ -4,8 +4,8 @@ Taiwan post
 WHAT IS IT?
 -----------
 
-This is a "Presets" of JOMS for adding/editing some chain store in Taiwan.
-eg: convenience store, gas station, bank
+This is a "Presets" of JOMS for adding/editing some chain stores in Taiwan.
+eg: convenience stores, gas stations, banks
 
 INSTALL
 -------
