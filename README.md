@@ -1,5 +1,5 @@
-Taiwan post
-===========
+Taiwan Chain Store
+==================
 
 WHAT IS IT?
 -----------
